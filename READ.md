@@ -101,12 +101,12 @@ Each model is assessed using the following metrics:
 
 _Add a summary table or chart here comparing model performance once training is complete._
 
-| Model               | Accuracy | Precision | Recall | F1-Score |
-|---------------------|----------|-----------|--------|----------|
-| KNN                 |          |           |        |          |
-| Decision Tree       |          |           |        |          |
-| Logistic Regression |          |           |        |          |
-| SVM                 |          |           |        |          |
+| Model               | Accuracy | Precision |  Recall  | F1-Score  |
+|---------------------|----------|-----------|----------|-----------|
+| KNN                 |   0.81   |    0.78   |   0.86   |   0.82    |
+| Decision Tree       |   0.77   |    0.74   |   0.85   |   0.79    |
+| Logistic Regression |   0.80   |    0.78   |   0.84   |   0.81    |
+| SVM                 |   0.80   |    0.78   |   0.84   |   0.81    |
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](../../issues).
